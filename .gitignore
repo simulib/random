@@ -1,0 +1,10 @@
+# JetBrains GoLand project files
+.idea/
+*.iml
+
+# Optional: common Go ignores
+bin/
+*.exe
+*.test
+*.log
+*.tmp
